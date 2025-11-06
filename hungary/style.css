@@ -19,14 +19,14 @@ a {
     height: 200px;
 }
 
-.green {
-    background-color:#1EB53A;
-}
-
 .white {
-    background-color:#FFFF;
+    background-color:#ffff;
 }
 
-.blue {
-    background-color:#0072C6
+.red {
+    background-color:#CE2939;
+}
+
+.green {
+    background-color:#477050
 }
